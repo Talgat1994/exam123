@@ -1,0 +1,21 @@
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    background-color: burlywood;
+}
+.day{
+    border-radius: 10px;
+    margin: 4px;
+    color: black;
+    background-color: whitesmoke;
+    border-color: whitesmoke;
+}
+.night{
+    border-radius: 10px;
+    margin: 4px;
+    color: white;
+    background-color: black;
+}
